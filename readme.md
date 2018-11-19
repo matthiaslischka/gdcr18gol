@@ -1,0 +1,1 @@
+One of the many takes on [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) from the [Global Day of Coderetreat 2018 - Vienna](https://www.coderetreat.org/) written in [Kotlin](https://kotlinlang.org/)
